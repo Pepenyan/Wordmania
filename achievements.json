@@ -1,0 +1,8 @@
+{
+  "first_win": false,
+  "five_in_a_row": false,
+  "ten_in_a_row": false,
+  "fast_answer": false,
+  "no_mistakes": false,
+  "played_10_rounds": false
+}
